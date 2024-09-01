@@ -8,6 +8,9 @@ https://koinx-task-backend.onrender.com
 ## Screenshots
 User Expense 
 ![User Expenses Route](./controllers/Screenshot%20(133).png)
+User Transactions
+![User Expenses Route](./controllers/Screenshot%20(134).png)
+![User Expenses Route](./controllers/Screenshot%20(135).png)
 **Steps to run the project**
 - Download or Clone the repository:
 ```
