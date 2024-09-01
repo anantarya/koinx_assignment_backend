@@ -6,7 +6,7 @@
 https://koinx-task-backend.onrender.com
 
 ## Screenshots
-(Screenshot%20(133).png)
+(.Screenshot%20(133).png)
 **Steps to run the project**
 - Download or Clone the repository:
 ```
