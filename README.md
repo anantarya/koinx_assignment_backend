@@ -6,7 +6,7 @@
 https://koinx-task-backend.onrender.com
 
 ## Screenshots
-Screenshot (133).png
+[Screenshot (133).png](https://github.com/anantarya/koinx_assignment_backend/blob/main/Screenshot%20(133).png)
 **Steps to run the project**
 - Download or Clone the repository:
 ```
