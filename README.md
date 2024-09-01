@@ -5,6 +5,8 @@
 **Project deployed link**
 https://koinx-task-backend.onrender.com
 
+## Screenshots
+
 **Steps to run the project**
 - Download or Clone the repository:
 ```
